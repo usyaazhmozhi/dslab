@@ -1,0 +1,26 @@
+Enter how many students: 2
+
+Enter name and roll number for student 1: ARUN
+4211101
+
+Enter name and roll number for student 2: KUMAR
+4211102
+
+Enter marks of student 1 for subject 1: 78
+
+Enter marks of student 1 for subject 2: 98
+
+Enter marks of student 1 for subject 3: 67
+
+Enter marks of student 2 for subject 1: 78
+
+Enter marks of student 2 for subject 2: 55
+
+Enter marks of student 2 for subject 3: 57
+
+Total marks obtained by student ARUN are 243
+Total marks obtained by student KUMAR are 190
+Student ARUN got maximum marks = 78 in Subject: 1
+Student ARUN got maximum marks = 98 in Subject: 2
+Student ARUN got maximum marks = 67 in Subject: 3
+ARUN obtained the total highest marks.
